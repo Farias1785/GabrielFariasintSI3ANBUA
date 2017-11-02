@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Myaplication</string>
+    <string name="edit_message">escreva sua mensagem</string>
+    <string name="button_send">envie</string>
+    <string name="person_nome">Qual o seu nome?</string>
+    <string name="Person_choice">Qual Assunto de seu interesse?</string>
+    <string name="person_choice" />
+</resources>
